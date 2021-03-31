@@ -1,4 +1,3 @@
-/ we import express to add types to the request/response objects from our controller functions
 import express from 'express';
 
 // we use debug with a custom context as described in Part 1
